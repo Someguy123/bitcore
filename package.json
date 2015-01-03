@@ -55,6 +55,10 @@
     {
       "name": "Wei Lu",
       "email": "luwei.here@gmail.com"
+    },
+    {
+        "name": "Chris (Someguy123)",
+        "email": "info@someguy123.com"
     }
   ],
   "keywords": [
@@ -67,7 +71,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore.git"
+    "url": "https://github.com/someguy123/bitcore.git"
   },
   "browser": {
     "request": "browser-request"
