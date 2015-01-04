@@ -1,5 +1,5 @@
 {
-  "name": "bitcore",
+  "name": "bitcore-litecoin",
   "version": "0.8.5",
   "description": "A pure and powerful JavaScript Bitcoin library.",
   "author": "BitPay <dev@bitpay.com>",
